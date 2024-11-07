@@ -1,7 +1,3 @@
-# Additional requirements
-jupyterlab-open-url-parameter
-jupyterlab-filesystem-access
-
 
 # Core modules (mandatory)
 jupyterlite-core==0.4.1
@@ -48,3 +44,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Additional requirements
+jupyterlab-open-url-parameter==0.3.0
+jupyterlab-filesystem-access==0.6.0
+
