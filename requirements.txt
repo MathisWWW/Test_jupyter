@@ -1,3 +1,8 @@
+# Additional requirements
+jupyterlab-open-url-parameter
+jupyterlab-filesystem-access
+
+
 # Core modules (mandatory)
 jupyterlite-core==0.4.1
 jupyterlab~=4.2.5
