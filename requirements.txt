@@ -46,6 +46,6 @@ plotly>=5,<6
 bqplot
 
 # Additional requirements
-jupyterlab-open-url-parameter==0.3.0
-jupyterlab-filesystem-access==0.6.0
+jupyterlab-open-url-parameter>=0.3.0
+jupyterlab-filesystem-access>=0.6.0
 
