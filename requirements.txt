@@ -42,14 +42,18 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Python: plotting libraries (optional)
-plotly
 bqplot
 numpy
 pandas
 matplotlib
 nbformat
+plotly
+
+# pyspark
+# tensorflow
+# torch
 
 # Additional requirements
 jupyterlab-open-url-parameter>=0.3.0
 jupyterlab-filesystem-access>=0.6.0
-
+lckr_jupyterlab_variableinspector
