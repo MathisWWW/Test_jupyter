@@ -42,12 +42,13 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Python: plotting libraries (optional)
-bqplot
-numpy
+# bqplot
+nbformat==5.10.4
+plotly==5.24.1
 pandas
 matplotlib
-nbformat
-plotly
+numpy
+unit-converter
 
 # pyspark
 # tensorflow
